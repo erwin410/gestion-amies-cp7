@@ -8,7 +8,7 @@
 
 - Cloner le projet
 ```
-git clone
+git clone https://github.com/erwin410/gestion-amies-cp7.git
 ```
 
 - Accéder au répertoire
