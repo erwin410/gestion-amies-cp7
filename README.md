@@ -20,7 +20,7 @@ cd nom-du-repertoire
 composer install
 ```
 
-- Créer un fichier .env.local et renseigner les variables d'environnement
+- Copier le contenu du fichier .env et ensuite créer un fichier .env.local coller le contenu du .env et renseigner les variables d'environnement
 ```
 DATABASE_URL="mysql://nom-utilisateur:votre-mots-de-passe@127.0.0.1:3306/nom-base-de-donnée?charset=utf8mb4"
 ```
